@@ -80,6 +80,6 @@ Soy estudiante de Ingeniería de Sistemas en la UNAD y Especialista en Gerencia 
 
 ### 📊 GitHub Stats & Metrics / Estadísticas y Métricas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anablancoj26&show_icons=true&theme=radical&cache_seconds=1800" alt="Ana's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anablancoj26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anablancoj26&show_icons=true&theme=github_dark&cache_seconds=1800" alt="Ana's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anablancoj26&theme=github_dark" alt="GitHub Streak" />
 </p>
