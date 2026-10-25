@@ -1,23 +1,23 @@
-### 👋 ¡Hola, soy Ana Blanco!
+### 👋 Hi, I'm Ana Blanco!
 
-Soy **Estudiante de Ingeniería de Sistemas** en la UNAD y **Especialista en Gerencia de Proyectos**. Actualmente me encuentro enfocada en el desarrollo backend, con un fuerte interés en **Golang**, bases de datos eficientes, sistemas distribuidos y la mejora continua de procesos técnicos.
+I am a **Systems Engineering student** at UNAD and a **Project Management Specialist**. I am currently focused on backend development, with a strong interest in **Golang**, efficient databases, distributed systems, and continuous technical improvement.
 
-- 🔭 Actualmente estoy perfeccionando mis habilidades en la construcción de servicios backend robustos y escalables.
-- 🚀 Apasionada por la automatización de procesos, la calidad del código, las pruebas unitarias y la gestión ágil.
-- 📫 ¿Cómo contactarme? [Escríbeme por correo](mailto:anaisabelblanco26@gmail.com) o conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/anablancoj).
-
----
-
-### 💻 Stack Tecnológico y Herramientas
-
-* **Lenguajes:** Go (Golang), Python, JavaScript.
-* **Bases de Datos:** PostgreSQL, MongoDB.
-* **Mensajería & Infraestructura:** Kafka, Redis, AWS, Docker / EKS.
-* **Gestión & Metodologías:** Git, Jira, Scrum, Agile Project Management.
+- 🔭 Currently sharpening my skills in building robust and scalable backend services.
+- 🚀 Passionate about process automation, code quality, unit testing, and agile project management.
+- 📫 How to reach me? [Send me an email](mailto:anaisabelblanco26@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anablancoj).
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 💻 Tech Stack & Tools
+
+* **Languages:** Go (Golang), Python, JavaScript.
+* **Databases:** PostgreSQL, MongoDB.
+* **Messaging & Infrastructure:** Kafka, Redis, AWS, Docker / EKS.
+* **Management & Methodologies:** Git, Jira, Scrum, Agile Project Management.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anablancoj26&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
