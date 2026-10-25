@@ -72,9 +72,9 @@ Soy estudiante de Ingeniería de Sistemas en la UNAD y Especialista en Gerencia 
 
 ### 📈 GitHub Stats / Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anablancoj26&show_icons=true&theme=radial&hide_border=true" alt="Ana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anablancoj26&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anablancoj26&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.herokuapp.com/api?username=Anablancoj26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
 ---
