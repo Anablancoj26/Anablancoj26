@@ -1,4 +1,4 @@
-# Hi there! / ¡Hola! 👋 I'm Ana Isabel Blanco Jaramillo
+# Hi there! / ¡Hola! 👋 I'm Ana Blanco
 
 <p align="center">
   <b>🌐 Language / Idioma:</b>
