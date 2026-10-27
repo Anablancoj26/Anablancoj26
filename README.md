@@ -78,8 +78,6 @@ Soy estudiante de Ingeniería de Sistemas en la UNAD y Especialista en Gerencia 
 
 ---
 
-### 📊 GitHub Stats & Metrics / Estadísticas y Métricas
-
 <!-- GitHub Stats & Metrics -->
 <div align="center">
   <h3>📊 GitHub Stats & Metrics / Estadísticas y Métricas</h3>
